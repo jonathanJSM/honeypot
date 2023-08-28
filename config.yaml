@@ -1,0 +1,7 @@
+# config.yaml
+network:
+  listen_ip: 0.0.0.0
+  ports: [22, 80, 443]
+
+logging:
+  log_file: honeypot.log
