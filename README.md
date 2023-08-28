@@ -80,9 +80,7 @@ Manage access to the honeypot by adding or removing IP addresses from the blackl
 
 Contributions and improvements to this project are welcome! Feel free to fork this repository and submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+you are a developer? Great! feel free to change and modify or improve
 
 ## Note
 
